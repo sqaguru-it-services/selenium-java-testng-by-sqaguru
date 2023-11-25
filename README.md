@@ -1,2 +1,2 @@
-# selenium-java-testng-by-sqaguru
-selenium-java-testng-by-sqaguru
+# selenium-java-by-sqaguru
+selenium java maven project by sqaguru
